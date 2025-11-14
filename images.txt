@@ -1,1 +1,2 @@
-onlyoffice/documentserver:9.1
+jketterl/openwebrx:latest-x86_64
+slechev/openwebrxplus
